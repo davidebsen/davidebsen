@@ -9,7 +9,7 @@
 
 <hr>
 <h2>:woman_technologist: Sobre mim</h2>
-Sou aquele que é fascinado por tecnologia e esta sempre em busca novos conhecimentos, e agora é encarando o mundo da programação.
+Olá! Eu sou o David Ebsen  🖐️, Um apaixonado por tecnologia em transição de carreira.
 <hr>
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
