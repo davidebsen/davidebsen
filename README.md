@@ -41,7 +41,7 @@ Olá! Eu sou o David Ebsen  🖐️, Um apaixonado por tecnologia em transição
 </br></br>
 <hr>
 <div> 
-<h2>:busts_in_silhouette: Como chegar até mim</h2>
+<h2>:busts_in_silhouette: Onde me encontrar</h2>
     <a href="https://www.instagram.com/d_ebsen/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
