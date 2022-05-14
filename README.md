@@ -1,4 +1,4 @@
-
+Sou aquele que é fascinado por tecnologia e esta sempre em busca novos conhecimentos, e agora é encarando o mundo da programação.
 <div align="center">
     <a href="#">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidebsen&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -8,29 +8,17 @@
     </a>
 </div>
 
-<div style="display: inline_block"><br>
-    <a href="#">
-        <img align="center" alt="Flavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-    </a>
-    <a href="#">
-        <img align="center" alt="Flavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </a>
-    <a href="#">
-        <img align="center" alt="Flavio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    </a>
-    <a href="#">
-        <img align="center" alt="Flavio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    </a>
-    <a href="#">
-        <img align="center" alt="Flavio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </a>
-    <a href="#">
-        <img align="center" alt="Flavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
-    <a href="#">
-        <img align="center" alt="Flavio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </a>
-</div>
+<h2>:bulb: Languages & Frameworks</h2>
+<code><img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" /></code>
+<code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Type Script" alt="Type Script" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /></code>
+<code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+</br></br>
 
 <hr>
 
@@ -51,3 +39,5 @@
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
  
+  ![Snake animation](https://raw.githubusercontent.com/davidebsen/davidebsen/output/github-contribution-grid-snake.svg)
+</div>
