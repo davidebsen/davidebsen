@@ -7,10 +7,10 @@
     </a>
 </div>
 
-
+<hr>
 <h2>:woman_technologist: Sobre mim</h2>
 Sou aquele que é fascinado por tecnologia e esta sempre em busca novos conhecimentos, e agora é encarando o mundo da programação.
-
+<hr>
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain-wordmark.svg" /></code>
@@ -39,7 +39,7 @@ Sou aquele que é fascinado por tecnologia e esta sempre em busca novos conhecim
 <code><img title="Mysql" alt="mysql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
 <code><img title="Chrome" alt="chrome" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/chrome/chrome-original.svg" /></code>
 </br></br>
-
+<hr>
 <div> 
 <h2>:busts_in_silhouette: Como chegar até mim</h2>
     <a href="https://www.instagram.com/d_ebsen/" target="_blank">
@@ -57,4 +57,5 @@ Sou aquele que é fascinado por tecnologia e esta sempre em busca novos conhecim
     <a href="mailto:davidebsen@yahoo.com.br">
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
+    <hr>
 </div>
