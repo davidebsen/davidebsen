@@ -1,4 +1,3 @@
-Sou aquele que é fascinado por tecnologia e esta sempre em busca novos conhecimentos, e agora é encarando o mundo da programação.
 <div align="center">
     <a href="#">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidebsen&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -7,6 +6,10 @@ Sou aquele que é fascinado por tecnologia e esta sempre em busca novos conhecim
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidebsen&layout=compact&langs_count=10&theme=github_dark"/>
     </a>
 </div>
+
+
+<h2>:woman_technologist: Sobre mim</h2>
+Sou aquele que é fascinado por tecnologia e esta sempre em busca novos conhecimentos, e agora é encarando o mundo da programação.
 
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
