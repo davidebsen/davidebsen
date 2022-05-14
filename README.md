@@ -51,5 +51,3 @@
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
  
-  ![Snake animation](https://raw.githubusercontent.com/davidebsen/davidebsen/output/github-contribution-grid-snake.svg)
-</div>
