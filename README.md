@@ -1,15 +1,9 @@
-<div align="center">
-    <a href="#">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidebsen&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="#">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidebsen&layout=compact&langs_count=10&theme=github_dark"/>
-    </a>
-</div>
 
-<hr>
-<h2>:woman_technologist: Sobre mim</h2>
-Olá! Eu sou o David Ebsen  🖐️, Um apaixonado por tecnologia em transição de carreira.
+<h2>:man_technologist: Sobre mim</h2>
+<p>Olá! Eu sou o David Ebsen 🖐️, um apaixonado por tecnologia de 38 anos, atualmente morando em Sinop, Mato Grosso. Trabalho no CURUPY ACQUA PARK HOTEL e estou em uma empolgante transição de carreira para o mundo da programação.</p>
+<p>Minha jornada na tecnologia começou pelo fascínio em entender como as coisas funcionam e como a tecnologia pode impactar positivamente nossas vidas. Estou constantemente em busca de novos conhecimentos e habilidades, especialmente no campo da programação, onde vejo uma imensidão de oportunidades para inovar e criar soluções efetivas.</p>
+<p>Com uma sólida base em linguagens como PHP, JavaScript e Python, estou mergulhando profundamente no desenvolvimento web, focando em frameworks como ReactJS e NodeJS para criar aplicações dinâmicas e responsivas. Minha meta é integrar minhas paixões pela tecnologia e inovação para desenvolver soluções que façam a diferença.</p>
+<p>Fora do ambiente de trabalho, você pode me encontrar estudando novas tecnologias, contribuindo para projetos de código aberto, ou explorando o mundo em busca de novas inspirações e ideias.</p>
 <hr>
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
@@ -59,3 +53,6 @@ Olá! Eu sou o David Ebsen  🖐️, Um apaixonado por tecnologia em transição
     </a>
     <hr>
 </div>
+
+
+
