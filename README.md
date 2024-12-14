@@ -1,9 +1,15 @@
 
+<hr>
 <h2>:man_technologist: Sobre mim</h2>
-<p>Olá! Eu sou o David Ebsen 🖐️, um apaixonado por tecnologia de 38 anos, atualmente morando em Sinop, Mato Grosso. Trabalho no CURUPY ACQUA PARK HOTEL e estou em uma empolgante transição de carreira para o mundo da programação.</p>
-<p>Minha jornada na tecnologia começou pelo fascínio em entender como as coisas funcionam e como a tecnologia pode impactar positivamente nossas vidas. Estou constantemente em busca de novos conhecimentos e habilidades, especialmente no campo da programação, onde vejo uma imensidão de oportunidades para inovar e criar soluções efetivas.</p>
-<p>Com uma sólida base em linguagens como PHP, JavaScript e Python, estou mergulhando profundamente no desenvolvimento web, focando em frameworks como ReactJS e NodeJS para criar aplicações dinâmicas e responsivas. Minha meta é integrar minhas paixões pela tecnologia e inovação para desenvolver soluções que façam a diferença.</p>
-<p>Fora do ambiente de trabalho, você pode me encontrar estudando novas tecnologias, contribuindo para projetos de código aberto, ou explorando o mundo em busca de novas inspirações e ideias.</p>
+<p>
+  Olá! Eu sou o David Ebsen 🖐️, um entusiasta de tecnologia e curioso nato, sempre em busca de novos conhecimentos e desafios. Atualmente, estou em transição de carreira e explorando o fascinante mundo da programação.
+</p>
+<p>
+  Tenho 38 anos e moro em Sinop, Mato Grosso, onde trabalho no CURUPY ACQUA PARK HOTEL. Minha paixão por tecnologia me impulsiona a buscar constantemente novos conhecimentos. Adoro me atualizar sobre as últimas tendências tecnológicas e aplicar esse conhecimento em projetos práticos.
+</p>
+<p>
+  Meu objetivo é me tornar um desenvolvedor full stack, utilizando minha criatividade e habilidades em resolução de problemas para criar soluções inovadoras. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
+</p>
 <hr>
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
